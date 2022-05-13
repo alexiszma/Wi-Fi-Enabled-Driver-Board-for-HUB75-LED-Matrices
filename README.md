@@ -3,7 +3,9 @@
 ## Table of Contents
   * [Ethos](https://github.com/alexiszma/Wi-Fi-Enabled-Driver-Board-for-HUB75-LED-Matrices/blob/main/README.md#ethos)
   * [General Information](https://github.com/alexiszma/Wi-Fi-Enabled-Driver-Board-for-HUB75-LED-Matrices/edit/main/README.md#general-information)
-  
+    * [Programming and Sofrware]()
+    * [Power]()
+    * [Misc.]()
   * [Acknowledgments]()
 
 
