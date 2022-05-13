@@ -1,9 +1,10 @@
 # ESP32 Based HUB75 Matrix Driver
 *Note: This project is a work in progress. Stay tuned!* 
 ## Table of Contents
-  * Ethos
-  * General Information
-  * Acknowledgments
+  * [Ethos](https://github.com/alexiszma/Wi-Fi-Enabled-Driver-Board-for-HUB75-LED-Matrices/blob/main/README.md#ethos)
+  * [General Information](https://github.com/alexiszma/Wi-Fi-Enabled-Driver-Board-for-HUB75-LED-Matrices/edit/main/README.md#general-information)
+  
+  * [Acknowledgments]()
 
 
 
